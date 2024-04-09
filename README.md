@@ -5,6 +5,8 @@
 
 ![Apoloxxx GitHub stats](https://github-readme-stats.vercel.app/api?username=apoloxxZ&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoloxxz&hide_progress=true)
+
 ### Linguagens que eu utilizo em meu dia a dia
 
 <div style="display_inline_block"></br>
