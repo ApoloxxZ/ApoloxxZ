@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**ApoloxxZ/ApoloxxZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, me chamo Saimon 🤙
 
-Here are some ideas to get you started:
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uwspFaWEaK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Apoloxxx GitHub stats](https://github-readme-stats.vercel.app/api?username=apoloxxZ&show_icons=true&theme=dracula)
+
+### Linguagens que eu utilizo em meu dia a dia
+
+<div style="display_inline_block"></br>
+    <img align="center" alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
