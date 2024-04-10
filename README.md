@@ -1,5 +1,7 @@
 
-### Olá, me chamo Saimon 🤙
+### Apoloxxx 🤙
+
+### - a
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uwspFaWEaK)
 
@@ -7,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoloxxz&hide_progress=true)
 
-### Linguagens que eu utilizo em meu dia a dia
+### Minhas hablidades
 
 <div style="display_inline_block"></br>
     <img align="center" alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
